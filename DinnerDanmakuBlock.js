@@ -3,7 +3,7 @@
 // @description     屏蔽大会员发送的专属彩色弹幕
 // @author          WorldlineChanger
 // @namespace       https://github.com/WorldlineChanger/DinnerDanmakuBlockScript
-// @homepageURL     https://github.com/WorldlineChanger/DinnerDanmakuBlockScript
+// @homepageURL     https://greasyfork.org/zh-CN/scripts/467914-%E5%B1%8F%E8%94%BDb%E7%AB%99%E5%A4%A7%E4%BC%9A%E5%91%98%E5%BD%A9%E8%89%B2%E5%BC%B9%E5%B9%95
 // @updateURL       https://raw.githubusercontent.com/WorldlineChanger/DinnerDanmakuBlockScript/main/DinnerDanmakuBlock.js
 // @license         MIT
 // @match           *://www.bilibili.com/video/av*
