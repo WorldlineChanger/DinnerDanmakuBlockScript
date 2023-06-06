@@ -1,0 +1,2 @@
+# DinnerDanmakuBlockScript
+屏蔽B站大会员彩色弹幕
